@@ -1,0 +1,2 @@
+module_header_google_search_title = Souhaitez-vous inclure Google search engine ?
+module_header_google_search_description = Affiche le google search à l'intérieur de votre site avec les résultats

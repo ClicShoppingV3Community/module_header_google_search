@@ -1,0 +1,2 @@
+module_header_google_search_title = Do you want include a google search engine ?
+module_header_google_search_description = Display the google search result inside your site

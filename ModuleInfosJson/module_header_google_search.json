@@ -1,0 +1,29 @@
+{
+  "title":			"module_header_google_search",
+  "type":           "modules_header",
+  "vendor":			"modules_header",
+  "is_free":   "Yes",
+  "is_core":   "No",
+  "website_link_to_sell" : "",
+  "version":			1.0,
+  "req_core_version":	3.0,
+  "license":			"GPL 2 - MIT",
+  "tag":			    "template, header, google, search",
+  "install":            "sources/template/Default/",
+  "module_directory":   "modules_header",
+  "apps_name":          "",
+  "type_module":      "template",
+  "dependance":       "",
+  "description":        "This module allow you to display a google search engine. You must have a registration on https://cse.google.co.uk",
+  "image":            "ModuleInfosJson/image.png",
+
+  "authors": [
+    {
+      "name":		    "ClicShopping Team",
+      "company":	    "Innov-concept",
+      "email":	      "",
+      "website":	    "http://www.clicshopping.com",
+      "Community":	  "http://www.clicshopping.org"
+    }
+  ]
+}
