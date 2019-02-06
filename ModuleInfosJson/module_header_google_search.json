@@ -3,7 +3,7 @@
   "type":           "modules_header",
   "vendor":			"modules_header",
   "is_free":   "Yes",
-  "is_core":   "No",
+  "is_core":   "no",
   "website_link_to_sell" : "",
   "version":			1.0,
   "req_core_version":	3.0,
@@ -22,7 +22,7 @@
       "name":		    "ClicShopping Team",
       "company":	    "Innov-concept",
       "email":	      "",
-      "website":	    "http://www.clicshopping.com",
+      "website":	    "http://www.clicshopping.org",
       "Community":	  "http://www.clicshopping.org"
     }
   ]
