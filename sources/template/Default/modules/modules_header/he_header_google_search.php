@@ -40,7 +40,7 @@
       
       $header_template = '<!-- header google search start -->';
 
-      $header_template .= '<script>';
+      $header_template .= '<script >';
       $header_template .= '(function() {';
       $header_template .= 'var cx = \'' . MODULE_HEADER_GOOGLE_SEARCH_KEY . '\';';
       $header_template .= 'var gcse = document.createElement(\'script\');';
