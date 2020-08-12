@@ -26,7 +26,7 @@
       $this->title = CLICSHOPPING::getDef('module_header_google_search_title');
       $this->description = CLICSHOPPING::getDef('module_header_google_search_description');
 
-      if ( defined('MODULE_HEADER_GOOGLE_SEARCH_STATUS') ) {
+      if (defined('MODULE_HEADER_GOOGLE_SEARCH_STATUS')) {
         $this->sort_order = MODULE_HEADER_GOOGLE_SEARCH_SORT_ORDER;
         $this->enabled = (MODULE_HEADER_GOOGLE_SEARCH_STATUS == 'True');
       }
